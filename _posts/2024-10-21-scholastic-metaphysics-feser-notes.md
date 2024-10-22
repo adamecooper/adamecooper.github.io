@@ -20,3 +20,33 @@ tags:
 ### Chapter 1: Act and Potency
 - Aristotle responds to two extreme positions in his analysis of change. Parmenides believes change is impossible because it involves being arising from non-being while Zeno applies paradoxes (e.g. distances bisected infinitely) to argue that change is impossible. Aristotle counters both extremes by positing that change involves what is (act) actualizing what could be (a potency).
 - Aristotles’s distinction between act and potency can also be deployed to counter the belief that there is only one being or everything is a multiplicity of beings. To the first claim, Aristotle responds that things can be defined (and therefore) distinguished by their acts & potencies beyond just the fact that they share a common “being”. To the second claim, Aristotle responds that things can only potentially be divided into infinity many beings, but in actuality this is not the case.
+- The success of modern science provides further
+justification for the validity of the act-potency 
+distinction. This is because science rests on the 
+fact that the world consists of studying distinct, 
+changing things based on our perceptual experience, 
+which also consists of distinct, changing episodes.
+- Potenct limits actuality. For example, a rubber 
+ball can never perfectly instantiate "roundness" 
+since rubber as matter thet can assume other forms 
+limits the ball's roundness to only an approximation. 
+True roundness can only be achieved jn perfect actuality.
+- Act is more fundamental than potency because...
+  - Potencies are defined in terms of actualities
+  - Potentcies are grounded in their actualities
+  - Only actual things can actualize potentials
+  - Nothing purely potential can exist
+- There are different categories of potencies...
+  - Objective potencies (existing merely as objects of 
+  thought - e.g. unicorns) vs subjective potentcies 
+  (existing within a real subect - e.g. rubber's ability
+  to be melted).
+  - Active potencies (i.e. powers) vs passive 
+  potencies (i.e. true potencies)
+  - Natural (e.g. eating or sleeping) vs supernatural 
+  potency (e.g. attaining the Beatific vision)
+- There are different kinds of acts:
+  - Pure act (i.e. God) vs mixed act (i.e. mixed with potency)
+  - Operative act vs entitative (essential) act
+
+
