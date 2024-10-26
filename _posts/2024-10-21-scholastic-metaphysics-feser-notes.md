@@ -64,5 +64,5 @@ establish that causal relations actually exist.
 characteristic effects, but scholastic philosophy establishes
 the reason there is causality at all.
 - metaphysics : chemistry :: powers : vehicles
-- trying to reduce powers to vehicles runs into the same problem
+- Trying to reduce powers to vehicles runs into the same problem
 as trying to reduce potencies to act (i.e. the denial of change).
