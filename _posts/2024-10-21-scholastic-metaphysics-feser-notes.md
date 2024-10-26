@@ -50,3 +50,13 @@ True roundness can only be achieved jn perfect actuality.
   - Operative act vs entitative (essential) act
 
 
+#### 1.2 Causation
+- It's important to distunguish the power from the action
+as well as the passive potency from an instance of it
+being actualized.
+- Potency is what limits causes to the specific range of
+effects they have. Only pure actuality can cause all effects.
+- To say "opium causes sleep because it has a dormitive power"
+is not a tautology because it tells us powers are real, and 
+critics of Scholasticism would not agree with that. Powers
+establish that causal relations actually exist.
