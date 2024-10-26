@@ -60,3 +60,9 @@ effects they have. Only pure actuality can cause all effects.
 is not a tautology because it tells us powers are real, and 
 critics of Scholasticism would not agree with that. Powers
 establish that causal relations actually exist.
+- Physical sciences explain how causes bring about their 
+characteristic effects, but scholastic philosophy establishes
+the reason there is causality at all.
+- metaphysics : chemistry :: powers : vehicles
+- trying to reduce powers to vehicles runs into the same problem
+as trying to reduce potencies to act (i.e. the denial of change).
