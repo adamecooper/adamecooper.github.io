@@ -9,6 +9,9 @@ tags:
 - ethnarch
   - the governor of a province or people (as of the Byzantine Empire)
   - "the ethnarch of Cypru  s"
+- hagiography
+  - biography that idealizes its subject.
+  - "a hagiography which is designed to serve a political agenda"
 - inchoate
   - just begun and so not fully formed or developed; rudimentary.
   - "a still inchoate democracy"
