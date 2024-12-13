@@ -66,3 +66,32 @@ the reason there is causality at all.
 - metaphysics : chemistry :: powers : vehicles
 - Trying to reduce powers to vehicles runs into the same problem
 as trying to reduce potencies to act (i.e. the denial of change).
+- Ockham denied universals because he put so much emphasis on the 
+divine will that he didn’t think anything could limit it (i.e. 
+God couldn’t will just anything for something with a universal 
+essence). This emphasis on the divine will led Ockham led him to 
+reject causation as well because he thought it was always possible 
+that God was bringing about some perceived secondary effect.
+- Occasionalism is the idea that God causes ALL effects directly
+- Scholastics attributed causal powers immanent to matter, and 
+explained reality in a “bottom up” manner arising from these 
+powers. In contrast, early modernists held that matter was passive 
+and their apparent powers were actually imposed from above (i.e. 
+a “top down” approach). 
+- The Scholastic ideas about causality were hollowed out first 
+by Ockham, then Descartes, until causality was completely rejected 
+altogether by Hume. Hume’s position is now the default 
+philosophical starting point even though there’s no objective 
+reason why it should be.
+- Humean objections to causal powers can be grouped into 
+regularities and counterfactual explanations. Both aim to describe 
+cause and effect merely in terms of what happened as opposed to 
+any active powers
+- Humean regularities have obvious issues (e.g. stone splashing 
+sound causing the movement of the leaf) that the counterfactual 
+objection is able to handle.
+- The electro-fink provides one example where cause and effect 
+cannot be explained by counterfactual analysis while it can be 
+explained in terms of causal powers.
+
+
