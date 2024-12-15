@@ -93,5 +93,16 @@ objection is able to handle.
 - The electro-fink provides one example where cause and effect 
 cannot be explained by counterfactual analysis while it can be 
 explained in terms of causal powers.
+- Effects can be “polygenic” (resulting from different powers 
+working in tandem) and powers can be “pleiotropic” (having several 
+different effects).
+- Powers working together to manifest different effects helps explain 
+how counterfactuals are consequences of powers as opposed to 
+constitutive;  often, eliminating 1 power is will prevent the effect 
+from manifesting.
+- Nancy Cartwright’s arguments from the philosophy of science 
+support causal powers. Scientific experiments assume powers exist by 
+aiming to control for all other factors except the one being measured.
+
 
 
