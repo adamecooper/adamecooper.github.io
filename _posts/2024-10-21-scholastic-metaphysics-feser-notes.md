@@ -103,6 +103,21 @@ from manifesting.
 - Nancy Cartwright’s arguments from the philosophy of science 
 support causal powers. Scientific experiments assume powers exist by 
 aiming to control for all other factors except the one being measured.
+- Scientists today talk about things as if they had certain powers (e.g. 
+a negatively charged particle has the power to attract a positively 
+charged particle).
+- The fact that a law of nature is a regularity explains nothing. We 
+want to understand why a law of nature manifests as it does and not some 
+other way and why it even exists at all. Causal powers are explanatory 
+because they account for how things are due to their essences.
+- Laws presuppose powers. Without either powers or divine decree, laws 
+become vacuous or incoherent.
+
+#### 1.3 Real Distinctions?
+- Scholastic definitions 
+    - real distinctions exist in reality outside of minds
+    - logical distinctions reflect different ways of thinking 
+      about something 
 
 
 
